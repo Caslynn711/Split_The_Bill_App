@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Split The Bill  App</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Welcom to Split Bill</string>
+    <string name="description">reciept image</string>
+    <string name="btnCalculate">Calculate Tip</string>
+    <string name="btnScreen2">Press to Figure Tip</string>
+    <string name="txtSubTitle1">Enter Party #:</string>
+    <string name="txtBillTotal">Bill Total:</string>
+    <string name="txtHint1">Party Total</string>
+    <string name="txtHint2">Bill Total</string>
+    <string-array name="txtGroup">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+    <string name="prompt">Select One</string>
+</resources>
